@@ -9,7 +9,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     - [Semi-automated](#semi-automated)
     - [Manual](#manual)
  
-## Fully-automated tools
+## Fully-automated
 
 *Just a template text.*
 
@@ -18,7 +18,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * Myelin-only
     * [link](https://www.link.com) Just a template text.
 
-## Semi-automated tools
+## Semi-automated
 
 *Just a template text.*
 
