@@ -17,7 +17,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [hifuku](https://github.com/onnonuro/hifuku) Morphometric analysis of sural nerve biopsies.
     * [AxonSeg-3D-CNN](https://github.com/MirenLurBarquin/AxonSeg-3D-CNN) Analyze the 3D white matter microstructure using 3D CNNs in 3D synchrotron X-ray nano-holotomography
     * [g-ratio selection](https://github.com/BartTh/g_ratio_selection) Automatic segmentation and selection of clinically relevant axon and myelin
-    * [large-scale axon segmentation](https://github.com/quantitative-mri-and-in-vivo-histology/ls_axon_segmentation) Mapping the MRI-visible, effective radius (r_eff) by combining high-resolution, large-scale light microscopy (lsLM) with deep learning. 
+    * [large-scale axon segmentation](https://github.com/quantitative-mri-and-in-vivo-histology/ls_axon_segmentation) Mapping the MRI-visible, effective radius (r_eff) by combining high-resolution, large-scale light microscopy (lsLM) with deep learning.
+    * [DeepACSON](https://github.com/aAbdz/DeepACSON) Segments myelin and axon for 3D histology
 * Axon-only
     * [D-LMBmap](https://github.com/lmbneuron/D-LMBmap) Automated axon segmentation from small cubes to whole brain.
     * [autoballs](https://github.com/rg314/autoballs) Pipeline for analysis of ex vivo axons explants segmentation and morphological analysis.
@@ -32,6 +33,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [CDeep3M2](https://github.com/CRBS/cdeep3m2) Plug-and-Play deep learning for image segmentation of large-scale microscopy data
     * [ANMAF]https://github.com/stephenbaek/ANMAF) Automated Neuronal Morphology Analysis Framework using Convolutional Neural Networks
     * [CellWalker](https://github.com/utraf-pasteur-institute/CellWalker-notebooks) Segmentation tools for three-dimensional images
+    * [Segment Anything for Microscopy] Napari segmentation tool for interactively segmenting any histology objects.
 
 ## Semi-automated
 
