@@ -4,10 +4,9 @@ An awesome list of histology segmentation tools.
 
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
-- [Awesome Histology Segmentation](#awesome-histology-segmentation)
-    - [Fully-automated](#fully-automated)
-    - [Semi-automated](#semi-automated)
-    - [Manual](#manual)
+- [Awesome Histology Segmentation ](#awesome-histology-segmentation-)
+  - [Fully-automated](#fully-automated)
+  - [Semi-automated](#semi-automated)
  
 ## Fully-automated
 
@@ -34,7 +33,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [ANMAF]https://github.com/stephenbaek/ANMAF) Automated Neuronal Morphology Analysis Framework using Convolutional Neural Networks
     * [CellWalker](https://github.com/utraf-pasteur-institute/CellWalker-notebooks) Segmentation tools for three-dimensional images
     * [Segment Anything for Microscopy] Napari segmentation tool for interactively segmenting any histology objects.
-
+    * [SL-SSNS](https://github.com/yanchaoz/SL-SSNS) Distribution-aware semi-supervised neuron segmentation in EM volumes using representative sub-volume selection (CGS) and mixed-view consistency regularization (IIC-Net).
 ## Semi-automated
 
 * Axon/Myelin
